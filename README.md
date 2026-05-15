@@ -1,6 +1,6 @@
 # Hush Line Treasurer Agent
 
-Public documentation for the Hush Line Treasurer Agent.
+Public documentation for the Hush Line Treasurer Agent, located in a private repo here: https://github.com/scidsg/hushline-finance
 
 The Treasurer Agent is a locally operated bookkeeping and financial workflow automation tool for Hush Line. It is designed to assist with recurring treasurer/CFO tasks such as transaction review, reconciliation support, accounting exports, report preparation, and accountant-facing summaries.
 
